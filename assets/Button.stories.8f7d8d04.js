@@ -1,0 +1,2 @@
+import{B as t}from"./index.36d79907.js";import"./jsx-runtime.326671e2.js";import"./iframe.fba39f7f.js";import"./inheritsLoose.291b18c2.js";const a={title:"Form/Button",component:t,args:{children:"Enviar"}},e={},s={args:{options:{variant:"contained"}}},m={args:{options:{variant:"outlined"}}},d=["Primary","Contained","Outlined"];export{s as Contained,m as Outlined,e as Primary,d as __namedExportsOrder,a as default};
+//# sourceMappingURL=Button.stories.8f7d8d04.js.map
