@@ -1,0 +1,6 @@
+{
+  "extends": "@woovi-ui/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}
